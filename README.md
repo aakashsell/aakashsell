@@ -1,8 +1,6 @@
 <div align="center">
 
 # Hi, I’m Aakash!
-  <br>
-  
 [LinkedIn](https://www.linkedin.com/in/aakash-sell-097141179/) - [Website](https://aakashsell.com)
   
 <hr>
